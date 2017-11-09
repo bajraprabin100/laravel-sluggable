@@ -9,6 +9,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-sluggable.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-sluggable)
 
 This package provides a trait that will generate a unique slug when saving any Eloquent model. 
+fasdfasdf
 
 ```php
 $model = new EloquentModel();
